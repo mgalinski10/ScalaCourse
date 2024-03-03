@@ -7,4 +7,9 @@ object ValuesVariablesTypes extends App {
 
   val aString: String = "Helo, Scala";
   println(aString)
+
+  val sChar: Char = 'a';
+  val aFloat: Float = 11.3;
+  val aBoll: Boolean = true;
+
 }
