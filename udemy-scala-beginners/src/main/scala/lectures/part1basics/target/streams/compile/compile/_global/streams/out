@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/michal/Desktop/projekty/ScalaCourse/udemy-scala-beginners/src/main/scala/lectures/part1basics/Recursion.scala:20:5: illegal start of simple expression[0m
+[0m[[0m[31merror[0m] [0m[0m    @tailrec[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/michal/Desktop/projekty/ScalaCourse/udemy-scala-beginners/src/main/scala/lectures/part1basics/Recursion.scala:31:5: illegal start of simple expression[0m
+[0m[[0m[31merror[0m] [0m[0m    def isPrimeTailrec(t: Int, isStillPrime: Boolean): Boolean =[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
